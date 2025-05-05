@@ -2,8 +2,7 @@
 
 FACEBOOK
 
-![alt text](image.png)
-
+![image](https://github.com/user-attachments/assets/1552901a-03ec-4b41-802e-723e2f30a81a)
 
 ARREGLO
 
@@ -19,3 +18,4 @@ OBJECTO
 
 RESULTADO
 
+![image](https://github.com/user-attachments/assets/8bbe4adb-2b34-4642-bdf5-2e0614ccb6cc)
