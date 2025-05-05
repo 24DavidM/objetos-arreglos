@@ -73,11 +73,10 @@ const users = [
     }
 ];
 
-const usersBDD = users.map((u) => {
-    return {
-        name: u.name.toUpperCase(),
-        lastName: u.lastName.toUpperCase()
-    };
-});
 
-console.log(usersBDD);
+const usuarios = users.map(persona => ({
+    name: persona.name.toUpperCase(),
+    lastName: persona.lastName.toUpperCase()
+}));
+
+console.log(usuarios);
